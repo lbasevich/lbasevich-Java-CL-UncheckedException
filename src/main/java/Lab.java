@@ -14,5 +14,10 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        int[] array = {1,4,5,6,7};
+
+        int check = array[10000];
+
+
     }
 }
